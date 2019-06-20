@@ -40,7 +40,7 @@
   <path
      d="M 2,2 C 0.892,2 0,2.892 0,4 l 0,8 c 0,1.108 0.892,2 2,2 l 10,0 c 1.108,0 2,-0.892 2,-2 l 0,-1 0.384328,0 C 15.492328,11 16,10.108 16,9 L 16,7 C 16,5.892 15.574418,5 14.466418,5 L 14,5 14,4 C 14,2.892 13.108,2 12,2 Z m 0,1 10,0 c 0.554,0 1,0.446 1,1 l 0,8 c 0,0.554 -0.446,1 -1,1 L 2,13 C 1.446,13 1,12.554 1,12 L 1,4 C 1,3.446 1.446,3 2,3 Z m 12,3 c 0.597415,0 1,0.051 1,1 l 0,2 c 0,0.9914 -0.406448,1 -1,1 z"
      id="rect2401"
-     style="display:inline;overflow:visible;visibility:visible;fill:#dfdbd2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+     style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
   <rect
      width="11.501664"
      height="9.5016642"
@@ -49,7 +49,7 @@
      x="1.2491678"
      y="3.2491679"
      id="rect3192"
-     style="display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:none;stroke:#dfdbd2;stroke-width:0.49833566;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+     style="display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:none;stroke:#ffffff;stroke-width:0.49833566;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
   <rect
      width="8"
      height="10.000001"
@@ -59,5 +59,5 @@
      y="-12"
      transform="matrix(0,1,-1,0,0,0)"
      id="rect3190"
-     style="display:inline;overflow:visible;visibility:visible;fill:#dfdbd2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.69999993;marker:none;enable-background:accumulate" />
+     style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.69999993;marker:none;enable-background:accumulate" />
 </svg>
