@@ -24,7 +24,7 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+     style="display:inline;overflow:visible;visibility:visible;opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
      id="rect2401-5"
      d="M 2,7 C 0.892,7 0,7.892 0,9 l 0,8 c 0,1.108 0.892,2 2,2 l 18,0 c 1.108,0 2,-0.892 2,-2 l 0,-1 0.384328,0 C 23.492328,16 24,15.108 24,14 l 0,-2 c 0,-1.108 -0.425582,-2 -1.533582,-2 L 22,10 22,9 C 22,7.892 21.108,7 20,7 Z m 0,1 18,0 c 0.554,0 1,0.446 1,1 l 0,8 c 0,0.554 -0.446,1 -1,1 L 2,18 C 1.446,18 1,17.554 1,17 L 1,9 C 1,8.446 1.446,8 2,8 Z m 20,3 c 0.597415,0 1,0.051 1,1 l 0,2 c 0,0.9914 -0.406448,1 -1,1 z" />
   <path
@@ -41,7 +41,7 @@
      height="9.500001"
      width="19.5" />
   <path
-     style="opacity:0.3;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
      id="path3172-8"
      d="m 17.997788,16 -6.999999,-7 0,4 -6.0000007,-3 8.0000007,7 0,-3 4.999999,2 z" />
   <path

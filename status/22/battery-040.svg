@@ -24,11 +24,11 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+     style="display:inline;overflow:visible;visibility:visible;opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
      id="rect2401-5"
      d="M 2,6 C 0.892,6 0,6.892 0,8 l 0,8 c 0,1.108 0.892,2 2,2 l 16,0 c 1.108,0 2,-0.892 2,-2 l 0,-1 0.384328,0 C 21.492328,15 22,14.108 22,13 l 0,-2 C 22,9.892 21.574418,9 20.466418,9 L 20,9 20,8 C 20,6.892 19.108,6 18,6 Z m 0,1 16,0 c 0.554,0 1,0.446 1,1 l 0,8 c 0,0.554 -0.446,1 -1,1 L 2,17 C 1.446,17 1,16.554 1,16 L 1,8 C 1,7.446 1.446,7 2,7 Z m 18,3 c 0.597415,0 1,0.051 1,1 l 0,2 c 0,0.9914 -0.406448,1 -1,1 z" />
   <rect
-     style="display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.69999993;marker:none;enable-background:accumulate"
+     style="display:inline;overflow:visible;visibility:visible;opacity:0;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.69999993;marker:none;enable-background:accumulate"
      id="rect3190-4"
      transform="matrix(0,1,-1,0,0,0)"
      y="-8"
