@@ -66,7 +66,7 @@
     <path
        d="m 14.75,8.5000001 c 0,1.7949249 -1.455074,3.2500009 -3.25,3.2500009 -1.7949254,0 -3.2499999,-1.455076 -3.2499999,-3.2500009 0,-1.7949255 1.4550745,-3.2500002 3.2499999,-3.2500002 1.794926,0 3.25,1.4550747 3.25,3.2500002 l 0,0 z"
        id="path3201"
-       style="opacity:0.3;fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:0;fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

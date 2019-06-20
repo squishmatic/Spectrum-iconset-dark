@@ -73,6 +73,6 @@
   <path
      d="M 11.75,7.49928 C 11.750399,9.846772 9.847491,11.75 7.499999,11.75 5.152508,11.75 3.249602,9.846772 3.25,7.49928 3.249602,5.151788 5.152508,3.248559 7.499999,3.248559 c 2.347492,0 4.2504,1.903229 4.250001,4.250721 z"
      id="path3208"
-     style="opacity:0.3;fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="opacity:0;fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      inkscape:connector-curvature="0" />
 </svg>
